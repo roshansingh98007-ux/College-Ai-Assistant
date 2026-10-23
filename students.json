@@ -2,14 +2,14 @@
     "students": [
         {
             "student_id": "101",
-            "name": "Adarsh",
+            "name": "Adarsh Das",
             "roll_number": "57",
             "course": "B.Tech CSE",
             "semester": 3,
             "subjects": {
                 "Python": {
                     "attended": 18,
-                    "total": 26
+                    "total": 27
                 },
                 "DSA": {
                     "attended": 22,
@@ -65,7 +65,7 @@
         },
         {
             "student_id": "104",
-            "name": "Roshan",
+            "name": "roshan",
             "roll_number": "51",
             "course": "B.Tech CSE",
             "semester": 3,
